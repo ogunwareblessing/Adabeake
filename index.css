@@ -5,7 +5,11 @@
 };
 
 h1 {
-    color :antiquewhite
-    background color(srgb red green blue)
-    
-}
+    color :antiquewhite;
+    background-color: (rgb red green blue);
+};
+
+h2 {
+    color:azure;
+    background-color: blueviolet;
+};
